@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Prompt Generator",
+  "description": "A simple tool to generate detailed video prompts from basic ideas using Gemini AI, providing structured JSON output for video generation models.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
